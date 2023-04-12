@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariam</h1>
 <h3 align="center">A passionate Data Science student</h3>
+<img align="right" alt="Coding" width="400" src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif">
 
 - 🌱 I’m currently learning **Data science**
 
