@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mariam</h1>
 <h3 align="center">A passionate Data Science student</h3>
+
 - 🌱 I’m currently learning **Data science**
+
 - 📫 How to reach me **mariamreda2911@gmail.com**
+
 - 📄 Know about my experiences (https://drive.google.com/file/d/1ltDCZAKj3tocaliWBQ32CSwjnYi96dcV/view?usp=sharing)
 
 <p align="left">
