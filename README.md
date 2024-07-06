@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Data Science student</h3>
 
 - 🌱 I’m currently learning **Data science**
-
 - 📫 How to reach me **mariamreda2911@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1USpeBW96PIvhF6hs6qAVsJuRoZ6kLq3o/view?usp=sharing](https://drive.google.com/file/d/1XqBH8fkoIF4rJQPAh5DtoUwNlFG_TIpV/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ltDCZAKj3tocaliWBQ32CSwjnYi96dcV/view?usp=sharing](https://drive.google.com/file/d/1XqBH8fkoIF4rJQPAh5DtoUwNlFG_TIpV/view?usp=sharing)
 
 <p align="left">
 </p>
